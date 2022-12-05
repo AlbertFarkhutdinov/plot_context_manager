@@ -1,10 +1,9 @@
 # plot_context_manager
 
-![GitHub repo size](https://img.shields.io/github/issues/AlbertFarkhutdinov/plot_context_manager)
+![GitHub repo size](https://img.shields.io/github/repo-size/AlbertFarkhutdinov/plot_context_manager)
 ![PyPI version](https://img.shields.io/pypi/v/plot-context-manager)
 ![GitHub contributors](https://img.shields.io/github/contributors/AlbertFarkhutdinov/plot_context_manager)
-![GitHub stars](https://img.shields.io/github/stars/AlbertFarkhutdinov/plot_context_manager)
-![GitHub forks](https://img.shields.io/github/forks/AlbertFarkhutdinov/plot_context_manager)
+![GitHub forks](https://img.shields.io/github/forks/AlbertFarkhutdinov/plot_context_manager?style=social)
 ![GitHub licence](https://img.shields.io/github/license/AlbertFarkhutdinov/plot_context_manager)
 
 `plot_context_manager` is a package to work with plots as with context managers.
